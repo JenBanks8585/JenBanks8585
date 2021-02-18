@@ -1,4 +1,4 @@
-[palm](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/female-technologist_1f469-200d-1f4bb.png) 
+![palm](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/female-technologist_1f469-200d-1f4bb.png) 
 Hi There!
 
 ![gif from giphy.com](https://media.giphy.com/media/46zGt1yNeHPGCq315Q/source.gif?raw=true)
