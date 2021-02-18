@@ -4,6 +4,11 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Hi! My name is Jennifer and currently learning on everything data! 
 
+-Projects:
+* [DS API](https://h-ds2.cityspire.dev/#/)
+* [Weather API](https://wquweather.herokuapp.com/)
+* [Strain Recommender](https://medicabi.herokuapp.com/)
+
 - 🔭 I’m currently working ... on a Data Science API that services a LABS project called CitySpire, 
       a one-stop web application that provides demographic, socio and economic information about a 
       given location in United Staes. [DS API](https://h-ds2.cityspire.dev/#/)
