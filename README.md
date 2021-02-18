@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/46zGt1yNeHPGCq315Q" width="312" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/46zGt1yNeHPGCq315Q">via GIPHY</a></p>
+(https://media.giphy.com/media/46zGt1yNeHPGCq315Q/source.gif)
 
 - 🔭 I’m currently working ... on a Data Science API that services a LABS project called CitySpire, a one-stop web application that provides demographic, socio and economic information about a given location in United Staes. [DS API](https://h-ds2.cityspire.dev/#/)
 - 🌱 I’m currently learning ... Data Science, python, SQL
