@@ -1,5 +1,5 @@
 
-![Imgur Image](https://i.imgur.com/SVjPB90.mp4)
+![Imgur Image](https://i.imgur.com/SVjPB90.gif)
 
 ![palm](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/female-technologist_1f469-200d-1f4bb.png) 
 
