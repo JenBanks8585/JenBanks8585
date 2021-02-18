@@ -1,5 +1,5 @@
 
-(<blockquote class="imgur-embed-pub" lang="en" data-id="a/asUF6bz" data-context="false" ><a href="//imgur.com/a/asUF6bz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![yeay](https://i.imgur.com/asUF6bz.mp4)
 
 ![palm](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/female-technologist_1f469-200d-1f4bb.png) 
 
