@@ -1,5 +1,5 @@
 
-![gif from giphy.com](https://i.imgur.com/asUF6bz.gifv)
+![gif from giphy.com](<iframe class="imgur-embed" width="100%" height="640" frameborder="0" src="https://i.imgur.com/asUF6bz.gifv#embed"></iframe>)
 
 ![palm](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/female-technologist_1f469-200d-1f4bb.png) 
 
