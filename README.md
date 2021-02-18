@@ -1,7 +1,7 @@
 
 ![Imgur Image](https://i.imgur.com/SVjPB90.gif?raw=true)
 
-![palm](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/female-technologist_1f469-200d-1f4bb.png) 
+![palm](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/female-technologist_1f469-200d-1f4bb.png) ![palm](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/female-technologist_1f469-200d-1f4bb.png) ![palm](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/female-technologist_1f469-200d-1f4bb.png) ![palm](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/female-technologist_1f469-200d-1f4bb.png) 
 
 
 - 🔭 I’m currently working ... on a Data Science API that services a LABS project called CitySpire, a one-stop web application that provides demographic, socio and economic information about a given location in United Staes. [DS API](https://h-ds2.cityspire.dev/#/)
